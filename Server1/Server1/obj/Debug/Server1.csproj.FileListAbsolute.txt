@@ -1,0 +1,11 @@
+D:\Microsoft Visual Studio\Server1\Server1\bin\Debug\Server1.exe.config
+D:\Microsoft Visual Studio\Server1\Server1\bin\Debug\Server1.exe
+D:\Microsoft Visual Studio\Server1\Server1\bin\Debug\Server1.pdb
+D:\Microsoft Visual Studio\Server1\Server1\obj\Debug\Server1.csproj.AssemblyReference.cache
+D:\Microsoft Visual Studio\Server1\Server1\obj\Debug\Server1.csproj.SuggestedBindingRedirects.cache
+D:\Microsoft Visual Studio\Server1\Server1\obj\Debug\Server1.Form1.resources
+D:\Microsoft Visual Studio\Server1\Server1\obj\Debug\Server1.Properties.Resources.resources
+D:\Microsoft Visual Studio\Server1\Server1\obj\Debug\Server1.csproj.GenerateResource.cache
+D:\Microsoft Visual Studio\Server1\Server1\obj\Debug\Server1.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\Server1\Server1\obj\Debug\Server1.exe
+D:\Microsoft Visual Studio\Server1\Server1\obj\Debug\Server1.pdb

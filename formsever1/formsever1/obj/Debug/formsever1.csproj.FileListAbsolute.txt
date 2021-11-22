@@ -1,0 +1,11 @@
+D:\Microsoft Visual Studio\formsever1\formsever1\bin\Debug\formsever1.exe.config
+D:\Microsoft Visual Studio\formsever1\formsever1\bin\Debug\formsever1.exe
+D:\Microsoft Visual Studio\formsever1\formsever1\bin\Debug\formsever1.pdb
+D:\Microsoft Visual Studio\formsever1\formsever1\obj\Debug\formsever1.csproj.AssemblyReference.cache
+D:\Microsoft Visual Studio\formsever1\formsever1\obj\Debug\formsever1.csproj.SuggestedBindingRedirects.cache
+D:\Microsoft Visual Studio\formsever1\formsever1\obj\Debug\formsever1.Form1.resources
+D:\Microsoft Visual Studio\formsever1\formsever1\obj\Debug\formsever1.Properties.Resources.resources
+D:\Microsoft Visual Studio\formsever1\formsever1\obj\Debug\formsever1.csproj.GenerateResource.cache
+D:\Microsoft Visual Studio\formsever1\formsever1\obj\Debug\formsever1.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\formsever1\formsever1\obj\Debug\formsever1.exe
+D:\Microsoft Visual Studio\formsever1\formsever1\obj\Debug\formsever1.pdb
